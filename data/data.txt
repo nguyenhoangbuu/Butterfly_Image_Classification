@@ -1,0 +1,2 @@
+https://s3.us-west-1.wasabisys.com/dphi/public-datasets/Data_Sprint_107_Butterfly_Classification/butterflies.zip
+https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification
