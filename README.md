@@ -8,5 +8,5 @@ hoặc:<br>
  https://s3.us-west-1.wasabisys.com/dphi/public-datasets/Data_Sprint_107_Butterfly_Classification/butterflies.zip
 ##  Model
 Xây dựng các mô hình phân loại hình ảnh phổ biến như: SVM, KNeighborsClassifier, RandomForestClassifier, Model Ensembled, Model CNN, Pretrained model...<br>
-Sử dụng các thư viện như: sklearn, tensorflow...<br>
+Sử dụng các thư viện như: sklearn, math, tensorflow...<br>
 Áp dụng một sô layer hiệu quả như: Gem Pooling, Arc Margin Product. 
